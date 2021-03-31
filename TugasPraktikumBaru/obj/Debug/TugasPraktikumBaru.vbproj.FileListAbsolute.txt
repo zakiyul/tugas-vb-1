@@ -1,0 +1,11 @@
+C:\Users\zakiy\AppData\Local\Temporary Projects\TugasPraktikumBaru\bin\Debug\TugasPraktikumBaru.exe.config
+C:\Users\zakiy\Documents\Visual Studio 2012\Projects\TugasPraktikumBaru\TugasPraktikumBaru\bin\Debug\TugasPraktikumBaru.exe.config
+C:\Users\zakiy\Documents\Visual Studio 2012\Projects\TugasPraktikumBaru\TugasPraktikumBaru\bin\Debug\TugasPraktikumBaru.exe
+C:\Users\zakiy\Documents\Visual Studio 2012\Projects\TugasPraktikumBaru\TugasPraktikumBaru\bin\Debug\TugasPraktikumBaru.pdb
+C:\Users\zakiy\Documents\Visual Studio 2012\Projects\TugasPraktikumBaru\TugasPraktikumBaru\bin\Debug\TugasPraktikumBaru.xml
+C:\Users\zakiy\Documents\Visual Studio 2012\Projects\TugasPraktikumBaru\TugasPraktikumBaru\obj\Debug\TugasPraktikumBaru.Form1.resources
+C:\Users\zakiy\Documents\Visual Studio 2012\Projects\TugasPraktikumBaru\TugasPraktikumBaru\obj\Debug\TugasPraktikumBaru.Resources.resources
+C:\Users\zakiy\Documents\Visual Studio 2012\Projects\TugasPraktikumBaru\TugasPraktikumBaru\obj\Debug\TugasPraktikumBaru.vbproj.GenerateResource.Cache
+C:\Users\zakiy\Documents\Visual Studio 2012\Projects\TugasPraktikumBaru\TugasPraktikumBaru\obj\Debug\TugasPraktikumBaru.exe
+C:\Users\zakiy\Documents\Visual Studio 2012\Projects\TugasPraktikumBaru\TugasPraktikumBaru\obj\Debug\TugasPraktikumBaru.xml
+C:\Users\zakiy\Documents\Visual Studio 2012\Projects\TugasPraktikumBaru\TugasPraktikumBaru\obj\Debug\TugasPraktikumBaru.pdb
